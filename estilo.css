@@ -1,0 +1,17 @@
+body {
+    background-color: rgb(28, 24, 26);
+    color: rgb(231, 110, 177);
+}
+
+@font-face {
+    font-family: 'JetBrainsMono Nerd Font Mono';
+    src: url('JetBrainsMonoNerdFontCompleteM-Regular.eot');
+    src: url('JetBrainsMonoNerdFontCompleteM-Regular.eot?#iefix') format('embedded-opentype'),
+        url('JetBrainsMonoNerdFontCompleteM-Regular.woff2') format('woff2'),
+        url('JetBrainsMonoNerdFontCompleteM-Regular.woff') format('woff'),
+        url('JetBrainsMonoNerdFontCompleteM-Regular.svg#JetBrainsMonoNerdFontCompleteM-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
